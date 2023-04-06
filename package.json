@@ -1,6 +1,6 @@
 {
   "homepage": "https://seu-tech.github.io",
-  "name": "seutech.github.io",
+  "name": "seu-tech.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^18.2.0",

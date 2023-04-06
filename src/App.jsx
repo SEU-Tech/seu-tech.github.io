@@ -6,7 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <div className="flex justify-content items-center h-screen">
+    <div className="flex justify-content items-center">
       <div classNmae="bg-gray-500 text-white p-4 px-6 rounded-lg mx-auto">
         <img className="w-full" src="/logo.png" alt="SEU Tech logo" />
         <p className="mt-4">Check back soon.</p>
